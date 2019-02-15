@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{% block title %}My Site{% endblock %}</title>
+    {% block head %}{% endblock %}
+</head>
+<body>
+    {% block content %}{% endblock %}
+
+    {% block scripts %}{% endblock %}
+</body>
+</html>
+
+<!-- 
+    csr + node      (如果项目使用的是csr+node，可以安装: koa2-connect-history-api-fallback)
+    
+    
+    index.html + .js。。。。vue-router
+    a/b  c/d
+
+ -->

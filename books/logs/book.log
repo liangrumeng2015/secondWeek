@@ -1,0 +1,44 @@
+[2019-02-02T13:38:03.839] [ERROR] cheese - ReferenceError: indexModel is not defined
+    at /Users/liangrumeng/Desktop/ydTest/books/controllers/IndexController.js:6:13
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/liangrumeng/Desktop/ydTest/books/middlewares/errorHandler.js:15:19)
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/liangrumeng/Desktop/ydTest/books/middlewares/errorHandler.js:5:23)
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-static/index.js:53:15)
+[2019-02-02T13:38:03.966] [ERROR] cheese - ReferenceError: indexModel is not defined
+    at /Users/liangrumeng/Desktop/ydTest/books/controllers/IndexController.js:6:13
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/liangrumeng/Desktop/ydTest/books/middlewares/errorHandler.js:15:19)
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/liangrumeng/Desktop/ydTest/books/middlewares/errorHandler.js:5:23)
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-static/index.js:53:15)
+[2019-02-02T13:39:34.330] [ERROR] cheese - ReferenceError: indexModel is not defined
+    at /Users/liangrumeng/Desktop/ydTest/books/controllers/IndexController.js:6:13
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/liangrumeng/Desktop/ydTest/books/middlewares/errorHandler.js:15:19)
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/liangrumeng/Desktop/ydTest/books/middlewares/errorHandler.js:5:23)
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-static/index.js:53:15)
+[2019-02-02T13:39:34.476] [ERROR] cheese - ReferenceError: indexModel is not defined
+    at /Users/liangrumeng/Desktop/ydTest/books/controllers/IndexController.js:6:13
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/liangrumeng/Desktop/ydTest/books/middlewares/errorHandler.js:15:19)
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/liangrumeng/Desktop/ydTest/books/middlewares/errorHandler.js:5:23)
+    at dispatch (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/liangrumeng/Desktop/ydTest/books/node_modules/koa-static/index.js:53:15)
